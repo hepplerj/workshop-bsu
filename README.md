@@ -1,6 +1,6 @@
-Notes, website, and files for the network analysis workshop at the American Historical Association in Denver, CO, 2017.
+Notes, website, and files for the network analysis workshop at Ball State University in Muncie, IN, 2017.
 
-<http://jasonheppler.org/projects/aha-workshop/>
+<http://jasonheppler.org/projects/bsu-workshop/>
 
 ## Schedule
 
