@@ -4,7 +4,7 @@ title: Gephi Alternatives
 
 ## Palladio 
 
-Palladio is an [NEH Implementation grant](http://www.neh.gov/divisions/odh/grant-news/announcing-6-digital-humanities-implementation-grant-awards-july-2013) funded project developed by [Humanities+Design](http://hdlab.stanford.edu/) that seeks to design graphical interfaces for humanistic inquiry. Palladio is the result of realizing that humanities scholars needed to play a role in designing tools for research. The platform offers various ways to visualize data, including maps, networks, tables, and galleries. Among the more powerful features includes the ability to filter the data based on facets, allowing you to visualize your data based on different criteria or at different points in time.
+Palladio is an [NEH Implementation grant](http://www.neh.gov/divisions/odh/grant-news/announcing-6-digital-humanities-implementation-grant-awards-july-2013) funded project developed by [Humanities+Design](http://hdlab.stanford.edu/) that seeks to design graphical interfaces for humanistic inquiry. Palladio is the result of realizing that digital scholars needed to play a role in designing tools for research. The platform offers various ways to visualize data, including maps, networks, tables, and galleries. Among the more powerful features includes the ability to filter the data based on facets, allowing you to visualize your data based on different criteria or at different points in time.
 
 ### Preparing and loading your data
 

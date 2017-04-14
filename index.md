@@ -11,7 +11,7 @@ This workshop emphasizes hands-on learning of working with network data and visu
 
 The workshop will address:
 
--   how networks are used in the humanities
+-   how networks are used in scholarship
 -   how we can use networks in the classroom and in research
 -   how to find, create, and use network data
 -   how to use Gephi and alternative network analysis tools

@@ -2,11 +2,11 @@
 title: Introduction
 ---
 
-## Networks and digital history
+## Networks and digital scholarship
 
-[Digital humanities](http://whatisdigitalhumanities.com/) offers a wide variety of methodological and pedagogical approaches, including text and data mining, network analysis, and spatial analysis. 
+Digital scholarship offers a wide variety of methodological and pedagogical approaches, including text and data mining, network analysis, and spatial analysis. 
 
-Among the more powerful desktop applications for network analysis such as Gephi, these software provide algorithms for interpreting networks and relationships as well as creating visualizations. Web approaches, to date, have not come with the computational power of desktop applications, but allow the easier creation of network visualizations. Networks also tend to be tricker to comprehend over maps, which entails a more intense methodological borrowing than we do with maps. That includes using algorithms designed by computer scientists for purposes that [might be at odds](https://tedunderwood.com/2011/10/16/lsa-is-a-marvellous-tool-but-humanists-may-no-use-it-the-way-computer-scientists-do/) of the humanities scholar. As Scott Weingart [once warned](http://www.scottbot.net/HIAL/index.html@p=6279.html), "Networks *can* be used on any project. Networks *should* be used on far fewer."
+Among the more powerful desktop applications for network analysis such as Gephi, these software provide algorithms for interpreting networks and relationships as well as creating visualizations. Web approaches, to date, have not come with the computational power of desktop applications, but allow the easier creation of network visualizations. Networks also tend to be tricker to comprehend over maps, which entails a more intense methodological borrowing than we do with maps. That includes using algorithms designed by computer scientists for purposes that [might be at odds](https://tedunderwood.com/2011/10/16/lsa-is-a-marvellous-tool-but-humanists-may-no-use-it-the-way-computer-scientists-do/) of the digital scholar. As Scott Weingart [once warned](http://www.scottbot.net/HIAL/index.html@p=6279.html), "Networks *can* be used on any project. Networks *should* be used on far fewer."
 
 The aim of this workshop is to help introduce you to some of these approaches for making and using networks.
 
@@ -18,7 +18,7 @@ Be aware, also, that far more time will be spent preparing and cleaning data tha
 
 That said, networks---through desktop software and web-based platforms---have made the tools of these visualizations easier for scholars and students to grapple with. Maps are often more readily understood than networks---because we frequently use maps as part of our day to day lives, their use for research and narrative is more apparent than networks which comes with an entire set of vocabulary, methods, theory, and approaches. The interactivity of maps allows scholars to filter data, to operate at different spatial scales, and embed sources into maps. Similarly, networks can move from large-scale relationships to explorations of smaller connections. These techniques, however, take time. Once you've begun to master them, consider how to bring these approaches and skills into your classroom and your research.
 
-As noted above, the biggest challenge with creating networks is the data---namely, once the data is ready and you've gained some competendnce in making these visualizations, the process proceeds quickly. Far more of your time---and your student's time---will be spent in preparing data, a task that's highly variable to the visualization and evidence you are working with. In other words, the evidence you're attempting to visualize comes with the very thing humanities scholars spend their time on---the finding and interpretation of evidence. 
+As noted above, the biggest challenge with creating networks is the data---namely, once the data is ready and you've gained some competendnce in making these visualizations, the process proceeds quickly. Far more of your time---and your student's time---will be spent in preparing data, a task that's highly variable to the visualization and evidence you are working with. In other words, the evidence you're attempting to visualize comes with the very thing digital scholars spend their time on---the finding and interpretation of evidence. 
 
 ```{r echo=FALSE, fig.height=2}
 library(DiagrammeR)
